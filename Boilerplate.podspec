@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "Boilerplate"
   s.version          = "0.0.1"
-  s.summary          = "as"
+  s.summary          = "Boilerplat"
   # s.description      = <<-DESC
                        # DESC
   s.homepage         = "https://github.com/detroit-labs/cocoapods-boilerplate"
